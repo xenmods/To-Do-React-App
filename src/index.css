@@ -1,0 +1,50 @@
+html {
+  background-color: #ebd8d0;
+}
+
+#root {
+  background-color: #ebd8d0;
+}
+
+body {
+  background-color: #ebd8d0;
+}
+
+container {
+  background-color: #ebd8d0;
+}
+
+.rounded {
+  background-color: whitesmoke;
+}
+
+input[type="text"] {
+  background: transparent;
+  color: black;
+}
+
+input[type="text"]:focus {
+  background: transparent;
+  color: black;
+}
+
+.col-sm-9 {
+  background-color: #fcfbfc;
+  transition: all 0.3s ease 0s;
+}
+
+.col-sm-9:hover {
+  transform: translateY(-7px);
+}
+
+.fw-bold {
+  transition: all 0.3s ease 0s;
+}
+
+.fw-bold:hover {
+  transform: translateY(-7px);
+}
+
+.border:hover {
+  cursor: pointer;
+}
